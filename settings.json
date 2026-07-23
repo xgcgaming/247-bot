@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "xgcsbot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "xgc77.aternos.me:",
+    "ip": "xgc77.aternos.me",
     "port": 40146,
     "version": "1.20.1",
     "try-creative": false
@@ -32,8 +32,8 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to SoloPlayz!",
-        "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
+        "Subscribe to xgc_real1!",
+        "subscribe to mylxocc"
       ]
     },
     "chat-log": true,
